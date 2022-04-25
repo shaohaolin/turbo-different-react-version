@@ -14,7 +14,9 @@
   },
   "devDependencies": {
     "prettier": "latest",
-    "turbo": "latest"
+    "turbo": "latest",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
   },
   "engines": {
     "npm": ">=7.0.0",
